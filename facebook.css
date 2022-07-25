@@ -1,0 +1,164 @@
+body{ width: auto;
+    height: auto;
+    background-color: rgb(242, 243, 247);
+    background-size: 50%;
+}
+
+a{ text-decoration: none;
+    color: white;
+
+}
+
+.up{
+    text-decoration: none;
+    font-size: 30px;
+}
+
+
+
+.all{   
+   width: auto;
+   height: auto;
+}
+
+.bignav{
+      background-color: rgb(11, 125, 231);
+      width: auto;
+      height: 70px;
+      display: flex;
+      justify-content: space-between;
+}
+
+.smallnav{
+        color: white;
+        margin-top: 1%;
+        width: 300px;
+        height: 50px;
+}
+
+ul{text-align: right;
+
+}
+
+li{display: inline;
+  margin-left: 30px;
+   }
+
+
+.bigform{ width: auto;
+        height: auto;
+        display: flex;
+        justify-content: space-evenly;
+  
+
+}
+.form{ width: 500px;
+     height: 450px;
+     margin-top: 5%;
+     display: flex;
+     justify-content: center;
+     background-color: rgb(16, 129, 241);
+     border-radius: 10px;
+     /* border: 1px solid blue; */
+     box-shadow: 0px, 11px, 35px, 5px rgb(243, 241, 241);
+}
+
+.frender{margin-top: 160px;}
+
+img{width: 500px;
+    height: 290px;
+}
+
+.form1{ text-align: center;
+      width: 300px;
+      height: 300px;
+      margin: 10%;
+      color: white;
+
+}
+
+h3, p {color: white;
+
+}
+
+h3 { font-size: 200%;}
+h1 {color: white;
+    font-size: 40px;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid rgb(12, 8, 235);
+    border-radius: 10px;
+    }
+
+.login{
+    border: 1px solid rgb(31, 216, 160);
+    border-radius: 5px;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(31, 216, 160);
+
+
+}
+
+.register{
+        border: 1px solid rgb(9, 238, 97);
+        border-radius: 5px;
+        width: 180px;
+        height: 31px;
+        background-color: rgb(9, 238, 97);}
+
+
+
+        
+button{  
+    color: white;
+    font-size: 110%;
+    list-style: none;
+    cursor: pointer;
+    position: relative;
+    padding: 8px 8px 8px 10px;
+    transition: 0.4s;
+    color: rgb(233, 40, 201);
+ }
+ 
+ 
+button:hover{
+    background: rgb(240, 112, 214);
+    transition: .10s ease-out;
+    transform: rotateZ(0);
+}
+
+.fom{  
+    
+    cursor: pointer;
+    position: relative;
+    transition: 0.4s;
+    color: rgb(233, 40, 201);
+ }
+
+ .bigfom{
+
+       width: 500px;
+        height: 450px;
+        margin-top: 5%;
+        display: flex;
+        justify-content: center;
+        background-color: rgb(155, 25, 90);
+        border-radius: 10px;
+        /* border: 1px solid blue; */
+        box-shadow: 0px, 11px, 35px, 5px rgb(243, 241, 241);
+   }
+
+
+   .bign{
+    background-color: rgb(155, 25, 90);
+    width: auto;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+ 

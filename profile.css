@@ -1,0 +1,218 @@
+body{ width: auto;
+  height: auto;
+  background-image: url(body4.jpg);
+  background-size: 50%;
+}
+
+.all{   
+width: auto;
+height: auto     
+}
+
+h1 {color: white;
+font-size: 40px;
+}
+
+a{color: white;
+font-size: 50%;
+text-decoration: none;
+}
+
+.a1{color: green;}
+
+.up{
+text-decoration: none;
+font-size: 30px;
+}
+
+ul{text-align: left;
+font-size: 40px;
+color: pink;
+}
+
+li{display: block;
+border: 3px solid rgb(0, 255, 157);
+border-radius: 10px;
+margin-top: 3px;
+width: 170px;
+height: 50px;
+color: green;
+background-color: rgb(85, 240, 175);
+
+}
+
+
+
+.brain{width: inherit;
+    height: 300px;
+    border: 1px solid red;
+    background-image: url(spiderman.jpg);
+    background-size:inherit;
+}
+
+.bignav{
+   background-color:rgb(11, 125, 231); 
+   width: auto;
+   height: 80px;
+   display: flex;
+   justify-content: space-between
+}
+
+.smallnav{
+     margin-top: 0;
+     width: 300px;
+     height: 25px;
+     margin-top: 45px;       
+}
+
+
+.bigform{ width: auto;
+     height: auto;   
+     display: flex;
+     justify-content: space-between;
+     margin-top: 0;
+     background-image: url(body4.jpg);
+     background-size: 50%;
+}
+
+.leftmenu{width:300px;
+      height: 500px;
+      border: 1px solid greenyellow;
+      margin-top: 80px;
+      border-radius: 20px;
+      background-color: rgb(76, 250, 241);
+     
+}
+
+.rightmenu{    
+      width:300px;
+      height: 500px;
+      border: 1px solid greenyellow;
+      margin-top: 80px;
+      border-radius: 20px;
+      font-size: 40px;
+}
+          
+.form{ 
+  width: 1000px;
+  height: 1000px;
+  border: 1px solid blue;
+  margin-top: 5%;
+  border-radius: 10px;
+}
+
+.firstd{ margin: auto;
+      width: 600px;
+      height: 150px;
+      border: 1px solid green;
+      display: flex;
+      justify-content: space-between;
+}
+
+.secondd{ display: flex;
+       flex-wrap: wrap;
+      margin: auto;
+      width: 800px;
+      height: 600px;
+      border: 1px solid green;
+      margin-top: 3px;
+}
+
+.dis{width: 100px;
+ height: 100px;
+ background: url(wiz.jpg);
+}
+
+.is{display:inline-block;
+width: 100px;
+height: 80px;
+background-image: url(wiz.jpg);
+background-size: cover;
+}
+
+
+input{height: 100px;
+width: 370px;
+background-color: transparent;
+border: 1px solid rgb(18, 114, 240);
+color: green;
+border-radius: 20px;
+}
+
+button{border: 1px solid rgb(12, 109, 235);
+    width: 100px;
+    height: 30px;
+
+}
+
+.cdiv{
+background-color: rgb(20, 240, 192);
+border: 1px  solid rgb(226, 28, 177);
+width: 600px;
+height:80px ;
+color: green;
+border-radius: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+
+
+
+
+
+
+  
+
